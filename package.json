@@ -1,6 +1,6 @@
 {
   "name": "tailf.io-cli",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,9 +21,9 @@
   "homepage": "https://github.com/a7medkamel/tailf.io-cli#readme",
   "dependencies": {
     "bluebird": "^3.5.1",
-    "commander": "^2.11.0",
+    "commander": "^2.12.2",
     "lodash": "^4.17.4",
     "tailf.io-sdk": "git+https://github.com/a7medkamel/tailf.io-sdk.git",
-    "terminal-kit": "^1.14.0"
+    "terminal-kit": "^1.14.3"
   }
 }
